@@ -1,0 +1,27 @@
+nav{display: flex;justify-content: space-around;
+    background-color:blue ;}
+nav a{text-decoration: dotted;font-size:30px;color: white;
+font-weight: 900;
+padding-top:15px;}
+
+h1{text-align: center;font-style: oblique;font-size: 80px;color: rgb(6, 129, 88);}
+h3{font-size:25px ;text-align: start;margin-left: 50px;}
+.cartinca{height: 200px;width: 400px; margin-left:50px;}
+.cart{margin-left: 200px;}
+.plaing{width:100px;height:100px;margin-left:200px;margin-bottom:50px;}
+
+.carnaval{margin-left: 50px;}
+.carn{margin-left:150px;}
+.carnav{margin-left:150px;}
+
+footer{background-color: hsl(189, 25%, 65%); padding:20px;height: 100px;text-align: center;
+margin-top:50px;}
+footer p{font-size:35px;display:inline; }
+.car{width: 35px;height: 35px;}
+
+body{margin-top:0;
+margin-left:0; margin-right:0;}
+
+
+
+
